@@ -7,6 +7,10 @@ LICENSE: [MIT](/license.md)
 ---
 * #### [**Что такое Git**](/GITInfo.md)
 * #### [**Краткая история Git**](/GitHistory.md)
+* #### [**Создание репозитория Git**](/Gitinit.md)
+* #### [**GitHub**](/GitHub.md)
+* #### [**.gitignore**](/Gitignoreinfo.md)
+* #### [**Команды Git**](/Gitcommand.md)
 
 
 
